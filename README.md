@@ -88,4 +88,5 @@ These employees showed repeated negative communication patterns that may indicat
 ---
 
 ## Contact
-For questions or contributions, please contact **[Your Name]** at [your.email@example.com].
+For questions or contributions, please contact **[Huzaifa Chauhan]** at [mdhuzaifachauhan.com].
+
