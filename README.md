@@ -24,11 +24,10 @@ This project analyzes internal employee email data to understand sentiment trend
 ### Flagged Flight-Risk Employees
 Identified based on 4+ negative messages in a 30-day window:
 
-- **bobette.riner**
 - **don.baughman**
 - **john.arnold**
 - **rhonda.denton**
-- **sally.beck**
+- **eric.bass**
 
 These employees showed repeated negative communication patterns that may indicate burnout, disengagement, or potential attrition risk.
 
@@ -89,4 +88,5 @@ These employees showed repeated negative communication patterns that may indicat
 
 ## Contact
 For questions or contributions, please contact **[Huzaifa Chauhan]** at [mdhuzaifachauhan.com].
+
 
